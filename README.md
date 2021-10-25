@@ -10,7 +10,7 @@ Here are the translations to the numbers which are printed:
 - 5: Flush
 - 6: Full House
 - 7: Four of a Kind
-- 8 Straight Flush
+- 8: Straight Flush
 - 9 Royal Flush
 
 The program does not account for the highest card and just returns the best combination every hand has.
