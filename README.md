@@ -12,6 +12,7 @@ Here are the translations to the numbers which are printed:
 - 7: Four of a Kind
 - 8 Straight Flush
 - 9 Royal Flush
+
 The program does not account for the highest card and just returns the best combination every hand has.
 The hand also gets printed. Every card looks similar to this: |5, 2| The first number (in this case 5) stands for the value of the card (ranging from 2 to 14), while the second number represents the symbol of the card(1 - Heart, 2 - Diamond, 3 - Club, 4 - Spade).
 
